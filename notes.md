@@ -1,6 +1,6 @@
-# Entity Resolution & Record Linkage: Literature review
+# Entity Resolution & Record Linkage
+## A literature review
 
-### A theory for record linkage
-#### 1969, JASA, Fellegi, Sunter
+### A theory for record linkage, Fellegi & Sunter, JASA (1969)
 
-* 
+
